@@ -45,7 +45,7 @@ namespace LinqPractices.DbOperations
                         
                         Name = "Merve",
                         Surname = "Yilmaz",
-                        ClassId = 1
+                        ClassId = 2
                     }
                     );
                 context.SaveChanges();
